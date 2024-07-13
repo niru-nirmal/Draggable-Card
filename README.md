@@ -4,7 +4,7 @@ This is a React application that demonstrates the usage of draggable components 
 #Getting Started
 Follow these steps to set up and run the application:
 
-1. Clone the repository
+1. Clone the repository - git clone https://github.com/niru-nirmal/Draggable-Card.git
 2. Install the npm packages by command: npm install
 3. Install the react-draggable library: npm install react-draggable
 4. To start the application, use the following command: npm run dev
